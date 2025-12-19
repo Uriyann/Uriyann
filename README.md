@@ -17,16 +17,16 @@ Currently, I'm focusing on improving my skills in web development and graphic de
 - Concise Web Development
 - Responsive Web Design
 
-### Progress
+## Progress
 - Actively committing school and personal projects
 - Practicing web development through hands-on projects
 - Improving consistency in coding and design
 
-### GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,py,git" />
+<img src="https://skillicons.dev/icons?i=html,css,js,py,git" /> <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Nynynynyx&show_icons=true&theme=dark" /> <br>
 
