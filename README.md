@@ -22,6 +22,15 @@ Currently, I'm focusing on improving my skills in web development and graphic de
 - Practicing web development through hands-on projects
 - Improving consistency in coding and design
 
+### GitHub Stats
+<div align="center">
+![Nyxth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nynynynyx&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nynynynyx&layout=compact&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Nynynynyx&theme=dark)
+</div>
+
 ## Link
 - Portfolio (soon)
 
@@ -29,10 +38,3 @@ Currently, I'm focusing on improving my skills in web development and graphic de
 * I like cats
 * I drink coffee 2-3x a day
 * I only go out when necessary
-
-### GitHub Stats
-![Nyxth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nynynynyx&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nynynynyx&layout=compact&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Nynynynyx&theme=dark)
