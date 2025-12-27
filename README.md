@@ -28,7 +28,7 @@ Currently, I'm focusing on improving my skills in web development and graphic de
 
 <img src="https://skillicons.dev/icons?i=html,css,js,py,git" /> <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nyxth-666&show_icons=true&theme=dark&cache_seconds=1800)
+![Stats](https://github-readme-stats.vercel.app/api?username=Nyxth-666&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyxth-666&layout=compact&theme=dark)
 
